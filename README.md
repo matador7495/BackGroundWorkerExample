@@ -1,6 +1,4 @@
 <p dir="rtl">
-از BackgroundWorker در سی شارپ به منظور انجام کار در پس زمینه و جلوگیری از 
-freeze
-شدن  برنامه استفاده می شود.
+ از BackgroundWorker در سی شارپ به منظور انجام کار در پس زمینه یا به اصطلاح در یک ترید دیگر و جلوگیری از freeze شدن برنامه استفاده می شود. 
 
-The BackgroundWorker in C # is used to do background work without freezing the screen of the program.
+The BackgroundWorker is used in C # to work in the background and prevent freeze the program.
